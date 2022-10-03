@@ -1,0 +1,9 @@
+site_name: meSite
+
+theme:
+    name: solar
+
+nav:
+    - Home: index.md
+    - Products: Products.md
+    - Contact: Contact.md
